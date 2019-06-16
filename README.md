@@ -1,5 +1,5 @@
 # Web-Programming
-This is web/android development programs 
+This is web/android development course. 
 
 # ICP-3
 wiki:https://github.com/lakshmanamettu/Web-Programming/wiki/ICP-3 
