@@ -47,7 +47,7 @@ Sourcecode:https://github.com/lakshmanamettu/Web-Programming/tree/master/Lab-1/S
 
 Documentation:https://github.com/lakshmanamettu/Web-Programming/tree/master/Lab-1/Documentation
 
-# M2 ICP-1
+# ICP-8
 
 wiki:https://github.com/lakshmanamettu/Web-Programming/wiki/ICP-8
 
