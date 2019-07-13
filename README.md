@@ -62,3 +62,11 @@ wiki:https://github.com/lakshmanamettu/Web-Programming/wiki/ICP-9
 SourceCode:https://github.com/lakshmanamettu/Web-Programming/tree/master/ICP'S/ICP-9/Source/MyOrder
 
 Documentation:https://github.com/lakshmanamettu/Web-Programming/tree/master/ICP'S/ICP-9/Documentation
+
+# ICP-10
+
+wiki:https://github.com/lakshmanamettu/Web-Programming/wiki/ICP-10
+
+Sourcecode:https://github.com/lakshmanamettu/Web-Programming/tree/master/ICP'S/ICP-10/Source/EarthquakeApp
+
+Documentation:https://github.com/lakshmanamettu/Web-Programming/tree/master/ICP'S/ICP-10/Documentation
