@@ -88,3 +88,11 @@ wiki:https://github.com/lakshmanamettu/Web-Programming/wiki/ICP-12
 Source Code:https://github.com/lakshmanamettu/Web-Programming/tree/master/ICP'S/ICP-12/Source
 
 Documentation:https://github.com/lakshmanamettu/Web-Programming/tree/master/ICP'S/ICP-12/Documentation
+
+# Lab-2
+
+wiki:https://github.com/lakshmanamettu/Web-Programming/wiki/Lab-2
+
+Source Code:https://github.com/lakshmanamettu/Web-Programming/tree/master/Lab-2/Source
+
+Documentation:https://github.com/lakshmanamettu/Web-Programming/tree/master/Lab-2/Documentation
